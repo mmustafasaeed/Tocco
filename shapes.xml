@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><shapes>
+<shape>
+<name value="rectangle" />
+<points>
+<point x="172" y="233" radius="null" />
+<point x="281" y="233" radius="null" />
+<point x="172" y="342" radius="null" />
+<point x="281" y="342" radius="null" />
+</points>
+<constraints>
+<static value="true" />
+</constraints>
+</shape>
+<shape>
+<name value="circle"/>
+<points>
+<point x="101.0" y="86.0" radius="168" />
+</points>
+<constraints>
+<static value="false" />
+</constraints>
+</shape>
+<scenario-constraints>
+<gravity value="false" />
+</scenario-constraints>
+</shapes>
